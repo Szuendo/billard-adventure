@@ -10,6 +10,15 @@ I hope the script can be helpful for others.
 
 Have fun browsing the code and playing.
 
+**Installing:**
+- Install vpython package:
+'conda install -c vpython vpython' or 'pip install vpython'
+https://vpython.org/presentation2018/install.html
+- clone repository
+'git clone ' 
+- run Main.py 
+'python Main.py'
+
 **Mouse:**
 - Clicking 'set kickoffir' enables aiming by moving the mouse. 
 - Clicking 'set kickoffvel' enables increasing/decreasing shot power by moving the mouse. 
