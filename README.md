@@ -10,7 +10,7 @@ I hope the script can be helpful for others.
 
 Have fun browsing the code and playing.
 
-**Installing:**
+**Installing and running:**
 - Install vpython package:
 
   *conda install -c vpython vpython* or *pip install vpython*
