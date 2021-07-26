@@ -4,7 +4,7 @@ Hello guys,
 
 This is my first attempt to create a game in python via the package vpython. It is a billiard game (8-ball pool) where you can play against a friend.
 
-It's not perfect yet, but gives a good insight into mathematical and physical challenges of programming a billiard game (see PhysicsEngine.py).
+It's not perfect yet, but gives a good insight into mathematical and physical challenges of programming a billiard game.
 
 I hope the script can be helpful for others. 
 
@@ -12,12 +12,18 @@ Have fun browsing the code and playing.
 
 **Installing:**
 - Install vpython package:
-'conda install -c vpython vpython' or 'pip install vpython'
-https://vpython.org/presentation2018/install.html
-- clone repository
-'git clone ' 
-- run Main.py 
-'python Main.py'
+
+  *conda install -c vpython vpython* or *pip install vpython*
+
+  https://vpython.org/presentation2018/install.html
+
+- clone repository:
+
+  *git clone git://github.com/Szuendo/billard-adventure.git*
+
+- run Main.py: 
+
+  *python Main.py*
 
 **Mouse:**
 - Clicking 'set kickoffir' enables aiming by moving the mouse. 
