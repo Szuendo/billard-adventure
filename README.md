@@ -4,7 +4,7 @@ Hello guys,
 
 This is my first attempt to create a game in python via the package vpython. It is a billiard game (8-ball pool) where you can play against a friend.
 
-It's not perfect yet, but gives a good insight into mathematical and physical challenges of programming a billiard game.
+It's not perfect yet, but gives a good insight into mathematical and physical challenges of programming a billiard game (see physicsengine.py).
 
 I hope the script can be helpful for others. 
 
