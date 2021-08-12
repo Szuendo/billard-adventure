@@ -22,8 +22,10 @@ Have fun browsing the code and playing.
   *git clone git://github.com/Szuendo/billard-adventure.git*
 
 - run Main.py (in ../billard-adventure/billard_simulation): 
-
-  *python Main.py* (cd billard-adventure/billard_simulation)
+  
+  *cd billard-adventure/billard_simulation*
+  
+  *python Main.py* 
 
 **Mouse:**
 - Clicking 'set kickoffir' enables aiming by moving the mouse. 
