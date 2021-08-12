@@ -30,11 +30,12 @@ Have fun browsing the code and playing.
 - Clicking 'set kickoffvel' enables increasing/decreasing shot power by moving the mouse. 
 
 **Keys:**
-- 'D': Allows the ball to be played after a shot power is specified
+- 'D': Allows the cueball to be played after a shot power is specified. 
+  (after the shot power is specified wait 3 seconds before clicking 'D' to play the cueball)
 
 **Credits:**
 
-* A. Herschach, Entwicklung eines virtuellen Billardspiels, Institut für Computervisualisierung Universität Koblenz/Landau , Koblenz 2007 (german)
+* A. Herschach, Entwicklung eines virtuellen Billardspiels, Institut für Computervisualisierung Universität Koblenz/Landau , Koblenz 2007 (german)
 https://kola.opus.hbz-nrw.de/opus45-kola/frontdoor/deliver/index/docId/128/file/Ausarbeitung.pdf
 
 * Package - Vpython: 
