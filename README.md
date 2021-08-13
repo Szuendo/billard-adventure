@@ -28,7 +28,7 @@ Have fun browsing the code and playing.
   *python Main.py* 
 
 **Mouse:**
-- Clicking 'set kickoffir' enables aiming by moving the mouse. 
+- Clicking 'set kickoffdir' enables aiming by moving the mouse. 
 - Clicking 'set kickoffvel' enables increasing/decreasing shot power by moving the mouse. 
 
 **Keys:**
